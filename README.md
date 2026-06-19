@@ -2,7 +2,7 @@
 Visual representation and counting for developing chip design algorithms
 
 Ryan Hayward (U Alberta) with thanks to Stephan Hougardy (U Boon) and Zac Friggstad (U Alberta)
-- Stefan Hougardy works at Bonn Institute for Discrete Math shares building with Arithmeum
+- Stefan Hougardy works at the Bonn Institute for Discrete Math shares building with Arithmeum
 
 ### Purpose: connect nodes with the least amount of wire
 - See the Prompt
