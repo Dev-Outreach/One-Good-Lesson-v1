@@ -7,9 +7,9 @@ Ryan Hayward (U Alberta) with thanks to Stephan Hougardy (U Boon) and Zac Friggs
 - Stefan Hougardy works at the Bonn Institute for Discrete Math sharing a building with Arithmeum
 
 ### Purpose: connect nodes with the least amount of wire
-- See the Prompt
-- CAUTION: this solution has an error
-- Solution Hint: an elementary student would experience double counting on the parallel lines
+- [ ] See the Prompt
+   - CAUTION: this solution has an error
+   - Solution Hint: an elementary student would experience double counting on the parallel lines
 
 - [ ] Work through the rest of the puzzles
 - [ ] Identify a solution as a issue of counting-by-1, then abstract this
