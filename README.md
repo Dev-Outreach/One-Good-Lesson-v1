@@ -8,6 +8,7 @@ Ryan Hayward (U Alberta) with thanks to Stephan Hougardy (U Boon) and Zac Friggs
 
 ### Purpose: connect nodes with the least amount of wire
 - See the Prompt
+- CAUTION: this solution has an error
 - Solution Hint: an elementary student would experience double counting on the parallel lines
 
 - [ ] Work through the rest of the puzzles
