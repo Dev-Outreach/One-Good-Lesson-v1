@@ -13,7 +13,7 @@ Ryan Hayward (U Alberta) with thanks to Stephan Hougardy (U Boon) and Zac Friggs
 
 - [ ] Work through the rest of the puzzles
 - [ ] Identify a solution as a issue of counting-by-1, then abstract this
-- [ ] As nodes increase, find space of concrete lines, then abstract again
+- [ ] As nodes increase, find space of straight lines as Whole Number System, then abstract again
 - [ ] Introduce secondary math number systems, irrationals & associated formulae
 - [ ] Develop a proof
 
