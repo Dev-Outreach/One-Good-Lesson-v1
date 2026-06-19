@@ -1,6 +1,8 @@
 # A Lines Puzzle
 Visual representation and counting for developing chip design algorithms
 
+---
+
 Ryan Hayward (U Alberta) with thanks to Stephan Hougardy (U Boon) and Zac Friggstad (U Alberta)
 - Stefan Hougardy works at the Bonn Institute for Discrete Math shares building with Arithmeum
 
